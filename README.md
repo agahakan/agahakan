@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a passionate software developer with a strong interest in building efficient and scalable web applications. I love working with different technologies and exploring new ways to solve problems.
+I am a passionate software developer with a strong interest in building efficient and scalable applications. I love working with different technologies and exploring new ways to solve problems.
 
 
 ## 📊 GitHub Stats
